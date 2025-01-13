@@ -3,5 +3,5 @@ Data set of simulated mesoscale fibrin gels
 
 
 <p>
-<img src="summary.png" width="900">
+<img src="TOC.png" width="900">
 </p>
